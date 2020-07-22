@@ -1,5 +1,5 @@
 {
-    "name": "laka/message",    
+    "name": "laka/message",
     "license": "MIT",
     "minimum-stability": "dev",
     "require": {
@@ -12,7 +12,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "0.1-dev"
+            "dev-master": "0.2-dev"
         }
     }
 }
